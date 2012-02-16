@@ -1,11 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
+        <loc>http://uwenna.github.com/test/blog/2012/02/16/hello-world/</loc>
+        <lastmod>2012-02-16T16:13:02-05:00</lastmod>
+    </url>
+    <url>
         <loc>http://uwenna.github.com/test/blog/archives/</loc>
-        <lastmod>2012-02-16T16:03:38-05:00</lastmod>
+        <lastmod>2012-02-16T16:13:02-05:00</lastmod>
     </url>
     <url>
         <loc>http://uwenna.github.com/test/</loc>
-        <lastmod>2012-02-16T16:03:38-05:00</lastmod>
+        <lastmod>2012-02-16T16:54:20-05:00</lastmod>
     </url>
 </urlset>
